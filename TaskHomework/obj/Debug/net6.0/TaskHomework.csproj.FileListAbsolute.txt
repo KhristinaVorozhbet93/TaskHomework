@@ -1,0 +1,15 @@
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\bin\Debug\net6.0\TaskHomework.exe
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\bin\Debug\net6.0\TaskHomework.deps.json
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\bin\Debug\net6.0\TaskHomework.runtimeconfig.json
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\bin\Debug\net6.0\TaskHomework.dll
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\bin\Debug\net6.0\TaskHomework.pdb
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.csproj.AssemblyReference.cache
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.AssemblyInfoInputs.cache
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.AssemblyInfo.cs
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.csproj.CoreCompileInputs.cache
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.dll
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\refint\TaskHomework.dll
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.pdb
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\TaskHomework.genruntimeconfig.cache
+D:\Домашние задания\Системное программирование\TaskHomework\TaskHomework\obj\Debug\net6.0\ref\TaskHomework.dll
